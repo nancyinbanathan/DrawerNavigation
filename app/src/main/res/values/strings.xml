@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DrawerNavigation</string>
+    <string name="navigation_open">Navigation bar is open</string>
+    <string name="navigation_close">Navigation bar is close</string>
+</resources>
